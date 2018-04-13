@@ -19,3 +19,7 @@ python main.py
 ```
 
 Please dont forget to setup your own `virtualenv`
+
+Screenshot:
+
+![Screenshot](screenshot.png)
