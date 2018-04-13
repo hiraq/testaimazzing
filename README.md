@@ -1,5 +1,11 @@
 # Bank Comparison
 
+Requirements:
+
+- Python3 (3.6.5)
+- Requests
+- BeautifulSoup
+
 Objective:
 
 ```
